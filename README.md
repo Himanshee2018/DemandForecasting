@@ -5,7 +5,7 @@ Demand Forecasting is the pivotal business process around which strategic and op
 
 Short to medium term tactical plans like pre-building, make-to-stock, make-to-order, contract manufacturing, supply planning, network balancing, etc. are execution based. Demand Forecasting also facilitates important management activities like decision making, performance evaluation, judicious allocation of resources in a constrained environment and business expansion planning.
 
-PROBLEM STATEMENT:
+Problem Statement:
 ==================
 One of the largest retail chains in the world wants to use their vast data source to build an efficient forecasting model to predict the sales for each SKU in its portfolio at its 76 different stores using historical sales data for the past 3 years on a week-on-week basis. Sales and promotional information is also available for each week - product and store wise.
 
